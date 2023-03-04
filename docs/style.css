@@ -1,8 +1,8 @@
 body{
     margin: 0 auto;
-    background: #000;
+    background: #344;
     font-family: Georgia, Palatino, serif;
-    color: #EEE;
+    color: #ddd;
     line-height: 1;
     max-width: 960px;
     padding: 30px;
@@ -31,7 +31,7 @@ h5 {
     font-size: 18px;
 }
 a {
-    color: #61BFC1;
+    color: #c16f87;
     margin: 0;
     padding: 0;
     text-decoration: none;
