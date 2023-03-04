@@ -7,6 +7,12 @@ body{
     max-width: 960px;
     padding: 30px;
 }
+.box{
+    border-width: 1px;
+    border-color: #fff;
+    margin: auto auto;
+    padding: 30px 30px 30px 30px;
+}
 h1, h2, h3, h4 {
     font-weight: 400;
 }
