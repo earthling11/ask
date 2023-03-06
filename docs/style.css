@@ -11,6 +11,8 @@ body{
     border-width: 1px;
     border-color: #fff;
     margin: auto auto;
+    vertical-align: center;
+    horizontal-align: center;
     padding: 30px 30px 30px 30px;
 }
 h1, h2, h3, h4 {
