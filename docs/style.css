@@ -1,5 +1,4 @@
 body{
-    margin: 0 auto;
     background: #011;
     font-family: Georgia, Palatino, serif;
     color: #ddd;
@@ -10,9 +9,11 @@ body{
 .grid {
     border: 1px;
     width: 80%;
+    max-width: 800px;
     margin: 0 auto;
     display: grid;
     place-items: center;
+    place-content: center;
 }
 .box{
     border-width: 1px;
